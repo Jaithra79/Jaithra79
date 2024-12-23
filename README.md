@@ -7,8 +7,8 @@ An ambitious WEB DEVELOPER, from Coimbatore.
 I'm  pursuing Bachelor of Engineering in Electronics and Communication Engineering ✨
 - 🔭 Currently working on: Making interesting front-end projects💻
 - 🌱 Learning: Frontend Frameworks 🔗
-- 🎨 I also enjoy: making art works (@_jaithra) and mehendi designs (@henna_by_jai)...! Check out my Instagram for designs🔍!
-- 📫 How to reach me **jjaithra79@gmail.com**
+- 🎨 I also enjoy: making art works (@_jaithra) and mehendi designs (@henna_by_jai)! Check out my Instagram for designs🔍!
+- 📫 How to reach me:**jjaithra79@gmail.com**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaithra79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
