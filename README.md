@@ -6,7 +6,7 @@ An ambitious WEB DEVELOPER, from Coimbatore.
 ## 🌟 A Little About Me 🙋🏻‍♀️:
 I'm  pursuing Bachelor of Engineering in Electronics and Communication Engineering ✨
 - 🔭 Currently working on: Making interesting front-end projects💻
-- 🌱 Learning: Frontend Frameworks 🔗
+- 🌱 Learning: Front-end Frameworks 🔗
 - 🎨 I also enjoy: making art works (@_jaithra) and mehendi designs (@henna_by_jai)! Check out my Instagram for designs🔍!
 - 📫 How to reach me:**jjaithra79@gmail.com**
 
@@ -17,7 +17,7 @@ I'm  pursuing Bachelor of Engineering in Electronics and Communication Engineeri
 
 ###
 
-<img align="right" height="290" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"  />
 
 ###
 
