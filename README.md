@@ -1,5 +1,5 @@
 # Hi 👋! My name is JAITHRA!!!...
-An ambitious WEB DEVELOPER, from Coimbatore.
+An ambitious Full-Stack Developer, from Coimbatore.
 
 ###
 
