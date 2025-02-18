@@ -6,7 +6,7 @@ An ambitious Full-Stack Developer, from Coimbatore.
 ## 🌟 A Little About Me 🙋🏻‍♀️:
 I'm  pursuing Bachelor of Engineering in Electronics and Communication Engineering ✨
 - 🔭 Currently working on: Learning backend💻
-- 🌱 Learning: Full-Stack Development
+- 🌱 Learning: Java Full-Stack Development
 - 🎨 I also enjoy: Making art works and mehendi designs🐼!!
 - 📫 How to reach me: **jjaithra79@gmail.com**
 
